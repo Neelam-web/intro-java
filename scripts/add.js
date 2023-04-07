@@ -99,11 +99,11 @@ var zakatpercentage = 0.025;
 var user_input = Numberprompt("Enter a number");
 var result = (zakatpercentage)*(user_input);
 alert("your zakat value is " + result); 
-prompt(" 2.5% zakat made by on your Assets","Give your zakat");
-prompt("Is this zakat donation","yes ");
-alert("Thanks");
+// prompt(" 2.5% zakat made by on your Assets","Give your zakat");
+// prompt("Is this zakat donation","yes ");
+// alert("Thanks");
 
-;
+
 
 
 
