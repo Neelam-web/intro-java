@@ -1,6 +1,6 @@
-alert ('Enter your name please')
-var xy=prompt("Enter Your Date of Birth","19-4-1992")
-var cinc=prompt("Enter your CNIC","42401-741705-5")
+// alert ('Enter your name please')
+// var xy=prompt("Enter Your Date of Birth","19-4-1992")
+// var cinc=prompt("Enter your CNIC","42401-741705-5")
 // document.write(xyz)
 // var arr = ('hi','hello')
 
@@ -95,68 +95,63 @@ var cinc=prompt("Enter your CNIC","42401-741705-5")
 
 // task 1 day 7 april.
 
-// var zakatpercentage = 0.025;
-// var user_input = Numberprompt("Enter a number");
-// var result = (zakatpercentage)*(user_input);
-// alert("your zakat value is " + result); 
-// prompt(" 2.5% zakat made by on your Assets","Give your zakat");
-// prompt("Is this zakat donation","yes ")
-// alert("Thanks")
-
-
 var zakatpercentage = 0.025;
-var user_input=Numberpromt("Enter a number");
-var result =(zakatpercentage)*(user_input);
-alert("your zakat value is"+ result);
+var user_input = Numberprompt("Enter a number");
+var result = (zakatpercentage)*(user_input);
+alert("your zakat value is " + result); 
+prompt(" 2.5% zakat made by on your Assets","Give your zakat");
+prompt("Is this zakat donation","yes ");
+alert("Thanks");
+
+;
 
 
 
 
+// document.write("my first name is");
+// document.write(" fatimah");
+// document.write("<br>my first name is");
+// document.write(" fatimah");
+// document.write("<br>my first name is");
+// document.write(" fatimah");
+// document.write("<br>my first name is");
+// document.write(" fatimah");
+// document.write("<br>my first name is");
+// document.write(" fatimah");
+// document.write("<br>my first name is");
+// document.write(" fatimah");
 
-document.write("my first name is");
-document.write(" fatimah");
-document.write("<br>my first name is");
-document.write(" fatimah");
-document.write("<br>my first name is");
-document.write(" fatimah");
-document.write("<br>my first name is");
-document.write(" fatimah");
-document.write("<br>my first name is");
-document.write(" fatimah");
-document.write("<br>my first name is");
-document.write(" fatimah");
-
-document.write(xy);
-document.write("<br>my first name is");
-document.write(xy);
-document.write("<br>my first name is");
-document.write(xy);
-document.write("<br>my first name is")
-document.write(xy);
+// document.write(xy);
+// document.write("<br>my first name is");
+// document.write(xy);
+// document.write("<br>my first name is");
+// document.write(xy);
+// document.write("<br>my first name is")
+// document.write(xy);
 
 
-var firstname, lastname, age, identitynum, siblings, paymentmethod, sourceofincome; 
-firstname = " neelam";
-lastname =" fatimah";
-age = "28";
-identitynum ="4240124304";
-sibling ="5 sisters 1bro death ";
-paymentmethod ="hbl"
-sourseofincome ="nothing jobless";
+// var firstname, lastname, age, identitynum, siblings, paymentmethod, sourceofincome; 
+// firstname = " neelam";
+// lastname =" fatimah";
+// age = "28";
+// identitynum ="4240124304";
+// sibling ="5 sisters 1bro death ";
+// paymentmethod ="hbl"
+// sourseofincome ="nothing jobless";
 
-document.write("<br>my first name is");
-document.write(firstname)
+// document.write("<br>my first name is");
+// document.write(firstname)
 
-document.write("<br>my last name is");
-document.write(lastname)
+// document.write("<br>my last name is");
+// document.write(lastname)
 
-document.write( "<br>i m")
-document.write(age)
-document.write("years old")
+// document.write( "<br>i m")
+// document.write(age)
+// document.write("years old")
 
-// alert('enter your name please')
+// // alert('enter your name please')
 
-// var firstname ="neelam"
+// // var firstname ="neelam"
 
 
 
