@@ -95,14 +95,19 @@ var cinc=prompt("Enter your CNIC","42401-741705-5")
 
 // task 1 day 7 april.
 
-var zakatpercentage = 0.025;
-var user_input =  prompt("Enter a number");
-var result = (zakatpercentage)*(user_input);
-alert("your zakat value is " + result); 
-prompt(" 2.5% zakat made by on your Assets","Give your zakat");
-prompt("Is this zakat donation","yes ")
-alert("Thanks")
+// var zakatpercentage = 0.025;
+// var user_input = Numberprompt("Enter a number");
+// var result = (zakatpercentage)*(user_input);
+// alert("your zakat value is " + result); 
+// prompt(" 2.5% zakat made by on your Assets","Give your zakat");
+// prompt("Is this zakat donation","yes ")
+// alert("Thanks")
 
+
+var zakatpercentage = 0.025;
+var user_input=Numberpromt("Enter a number");
+var result =(zakatpercentage)*(user_input);
+alert("your zakat value is"+ result);
 
 
 
