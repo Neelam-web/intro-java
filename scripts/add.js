@@ -1,6 +1,10 @@
 // alert ('Enter your name please')
 // var xy=prompt("Enter Your Date of Birth","19-4-1992")
-// var cinc=prompt("Enter your CNIC","42401-741705-5")
+// var cinc= prompt("Enter your CNIC","42401-741705-5")
+
+
+
+
 // document.write(xyz)
 // var arr = ('hi','hello')
 
@@ -93,27 +97,26 @@
 
 // var xy= ('Ali')
 
-// task 1 day 7 april.
+// // task 1 day 7 april.
 
-var zakatpercentage = 0.025;
-var user_input = Numberprompt("Enter a number");
-var result = (zakatpercentage)*(user_input);
-alert("your zakat value is " + result); 
-// prompt(" 2.5% zakat made by on your Assets","Give your zakat");
-// prompt("Is this zakat donation","yes ");
-// alert("Thanks");
+var zakatPercentage = 0.025;
+var userInput = +prompt("Enter a number");
+var result = (zakatPercentage) * (userInput);
+alert("your zakat value is" + result);
 
 
 
 
 
 
-// document.write("my first name is");
+
+
+
 // document.write(" fatimah");
 // document.write("<br>my first name is");
 // document.write(" fatimah");
-// document.write("<br>my first name is");
-// document.write(" fatimah");
+// document.write("<br>my fidocrst name is");
+// // document.write(" fatimah");
 // document.write("<br>my first name is");
 // document.write(" fatimah");
 // document.write("<br>my first name is");
@@ -152,8 +155,6 @@ alert("your zakat value is " + result);
 // // alert('enter your name please')
 
 // // var firstname ="neelam"
-
-
 
 
 
