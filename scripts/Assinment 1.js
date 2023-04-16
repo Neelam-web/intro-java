@@ -50,13 +50,13 @@
 // TASK 3 Answer
 
 
-// var secretNumber = 5; 
+var secretNumber = 5; 
 
-// var userGuess = +prompt (" Hello Lets play Please Guess The Secret Number");
-// if (userGuess == secretNumber) { alert("Congratulation You Guess The Secret Number");
-// }else if (userGuess > secretNumber) { alert("Your Guess Value Is High Please Guess Again");    
-// }else if (userGuess < secretNumber) { alert("Your Guess Value Is Low Guess Again");
-// }
+var userGuess = +prompt (" Hello Lets play Please Guess The Secret Number");
+if (userGuess == secretNumber) { alert("Congratulation You Guess The Secret Number");
+}else if (userGuess > secretNumber) { alert("Your Guess Value Is High Please Guess Again");    
+}else if (userGuess < secretNumber) { alert("Your Guess Value Is Low Guess Again");
+}
 
 
 
@@ -183,6 +183,23 @@
 // }
 
 
+// TASK 7 JAVASCRIPT
 
+
+// Create a program that asks the user for their nationality, gender, and age using the prompt
+// function. The program should then use nested if-else statements to determine if the
+// person is eligible to vote.
+// First, the program should check if the person is Pakistani or Indian. If they are not, the
+// program should display a message saying they are not eligible to vote.
+// If they are Pakistani or Indian, the program should then check their gender. If the person is
+// male and over the age of 18, they are eligible to vote. If the person is female and over the
+// age of 18, the program should ask if they are married. If they are married, they are eligible
+// to vote. If they are not married, they are not eligible to vote.
+// If the person is under 18, the program should display a message saying they are not eligible
+// to vote.
+
+
+
+// TASK 7 Answer
 
 
