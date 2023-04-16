@@ -50,13 +50,14 @@
 // TASK 3 Answer
 
 
-var secretNumber = 5; 
+// var secretNumber = 5; 
 
-var userGuess = +prompt (" Hello Lets play Please Guess The Secret Number");
-if (userGuess == secretNumber) { alert("Congratulation You Guess The Secret Number");
-}else if (userGuess > secretNumber) { alert("Your Guess Value Is High Please Guess Again");    
-}else if (userGuess < secretNumber) { alert("Your Guess Value Is Low Guess Again");
-}
+// var userGuess = +prompt (" Hello Lets play Please Guess The Secret Number");
+// if (userGuess == secretNumber) { alert("Congratulation You Guess The Secret Number");
+// }else if (userGuess > secretNumber) { alert("Your Guess Value Is High Please Guess Again");    
+// }else if (userGuess < secretNumber) { alert("Your Guess Value Is Low Guess Again");
+// }
+
 
 
 
@@ -182,7 +183,6 @@ if (userGuess == secretNumber) { alert("Congratulation You Guess The Secret Numb
     
 // }
 
-
 // TASK 7 JAVASCRIPT
 
 
@@ -198,8 +198,39 @@ if (userGuess == secretNumber) { alert("Congratulation You Guess The Secret Numb
 // If the person is under 18, the program should display a message saying they are not eligible
 // to vote.
 
-
-
 // TASK 7 Answer
+
+// var nationality = prompt("Enter your Nationality")
+
+// var gender = prompt("Enter Your Gender")
+
+// var age = + prompt("Enter your Age")
+
+// if(nationality == "pakistani"){
+
+//     console.log("you are eligible to vote")
+
+// }else if(nationality == "indian") {
+
+//   console.log("you are not eligible to vote in pakistan")
+// }
+//  if (age <18) {
+
+//     console.log("your are underage")
+
+// }else if (age >=18) {
+
+//     console.log ("yes you are eligible for vote please go to voting area")
+    
+// }
+// var mStatus = prompt("Are You married Or Not")
+
+// if (mStatus === "married") {
+
+//     console.log("you are married yes you can vote")
+    
+// }else {
+//     console.log("you are unmarried and not eligible for vote")
+// }
 
 
